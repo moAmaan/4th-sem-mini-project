@@ -1,5 +1,6 @@
 # Email service
 ## Requirements
+- Pyhton 3.9.4(Mine Edition)
 - Install the following libraries :<br>
     - speech_recognition
     - sounddevice
@@ -15,4 +16,4 @@
 `email_2`<br>
 `email_3`<br> <br>
 Start the program by launching Start.py
-  -Enter your choice and work accordingly
+- Enter your choice and work accordingly
