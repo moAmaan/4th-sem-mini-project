@@ -16,4 +16,4 @@
 `email_2`<br>
 `email_3`<br> <br>
 Start the program by launching Start.py
-- Enter your choice and work accordingly
+- Give your choice through microphone and work accordingly
