@@ -1,5 +1,7 @@
 # Email service
 ## Requirements
+- Internet connection is required to send and recieve emails, so make sure your system is connected to internet during execution of program.
+- Use headphones with a working microphone in it.
 - Pyhton 3.9.4(Mine Edition)
 - Install the following libraries :<br>
     - speech_recognition
